@@ -1,6 +1,6 @@
-## EdLab Efficient Transformer Study (2021)
+## EdLab.   Efficient Transformer Study (2021)
 
-#### Mem.: Dayoung Lee, Kyung-hoon Hur, 
+#### Mem.: Dayoung Lee, Kyung-hoon Hur, Seungwoo Ryu, 
 #### Time: Monday 14:00 - 16:00
 
 |       Date     | Paper | Published | Affiliation || Note-by | Treasury |
