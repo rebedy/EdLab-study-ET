@@ -5,11 +5,13 @@
 
 |       Date     | Paper | Published | Affiliation || Note-by | Treasury |
 |:--------------:|:--------------------------------:|:-------------:|:---------:|:-:|:--------:|:--------:|
-| 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention][paperlink_1] | 2020 ICML |  EPFL |  | dylee |[week1][etstudy_1]|
+| 10th Sep, 2021 | [Setting up an agenda and goal.][repo_0] | 2022 KAIST |  EdLab |  | dylee |[week1][etstudy_0]|
 
+| 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention][paperlink_1] | 2020 ICML |  EPFL |  | kh hur |[week1][etstudy_1]|
 
+[repo_0]: 
 
-
+[etstudy_0]: https://www.notion.so/dyanlee/Transformer-based-Seq2Seq-and-Sparsity-Linearity-4d4cb052ef1244bc9bdd228846b8fa8e 
 [etstudy_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
 
 [paperlink_1]: https://arxiv.org/pdf/2006.16236.pdf
