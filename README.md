@@ -5,12 +5,14 @@
 
 |       Date     | Paper | Published | Affiliation || Note-by | Treasury |
 |:--------------:|:--------------------------------:|:-------------:|:---------:|:-:|:--------:|:--------:|
-| 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention] | 2020 ICML |  EPFL |  | dylee |[etstudy_1]|
+| 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention][paperlink_1] | 2020 ICML |  EPFL |  | dylee |[week1][etstudy_1]|
+
+
 
 
 [etstudy_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
 
-
+[paperlink_1]: https://arxiv.org/pdf/2006.16236.pdf
 
 
 
