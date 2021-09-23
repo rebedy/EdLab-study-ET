@@ -6,7 +6,7 @@
 
 |       Date     | Topic | Published | Affiliation || Note-by | Treasury | Ref. Vault |
 |:--------------:|:--------------------------------:|:---------------:|:-----------:|:-:|:----------:|:--------:|:--------:|
-| 10th Sep, 2021 | [Setting up an agenda and goal][repo_0] | 2022KAIST |  EdLab || dylee |[week0][etnote_0]|
+| 10th Sep, 2021 | [Setting up an agenda and goal][repo_0] | 2021KAIST |  EdLab || dylee |[week0][etnote_0]|
 | 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part1][paperlink_1] | 2020ICML|EPFL || - |[week1][etnote_1]|[ref.1][etref_1]|
 | 24th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | 2020ICML|EPFL || dylee |[week2][etstudy_1]||
 |  1st Oct, 2021 | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2] | 2020ICLR | Google Research || khhur |[week3][etnote_2]||
@@ -26,7 +26,7 @@
 <!-- & # Weekly Note -->
 [etnote_0]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week0
 [etnote_1]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week1
-[etnote_2]: 
+[etnote_2]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week3
 
 <!-- & # Reference Vault -->
 [etref_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
