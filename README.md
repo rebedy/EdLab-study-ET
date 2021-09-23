@@ -1,7 +1,7 @@
 ## EdLab.   Efficient Transformers Study (2021)
 
-#### Mem.: Dayoung Lee, Kyung-hoon Hur, JongHak Moon, Seungwoo Ryu, Minjae Lee, Eunbyeol Cho, and Sumin Jo
-#### Time: Monday 14:00 - 16:00
+#### Members: Dayoung Lee, Kyung-hoon Hur, JongHak Moon, Seungwoo Ryu, Minjae Lee, Eunbyeol Cho, and Sumin Jo
+#### Time: Friday 16:00 - 17:30
 
 
 |    Date  | Topic | Published | Affiliation || Note-by | Treasury | Ref. Vault |
