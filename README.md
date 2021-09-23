@@ -10,19 +10,21 @@
 | 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | 2020ICML |  EPFL || dylee |[week2][etstudy_2]|
 
 
+<!-- & Main Repository -->
 [repo_0]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week0
 
-//Weekly Note//
+
+<!-- & Materials -->
+[paperlink_1]: https://arxiv.org/pdf/2006.16236.pdf
+
+
+<!-- & # Weekly Note -->
 [etstudy_0]: https://www.notion.so/dyanlee/Transformer-based-Seq2Seq-and-Sparsity-Linearity-4d4cb052ef1244bc9bdd228846b8fa8e 
 [etstudy_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
 [etstudy_2]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
 
-[paperlink_1]: https://arxiv.org/pdf/2006.16236.pdf
 
-
-
-[References]: //
-
+<!-- & # Markdown References -->
 [jchoo-ssl1]: https://drive.google.com/file/d/1JndOzkhxtOXwp_4sBtcc1WCpTh1Y1ygb/view?usp=sharing
 [jchoo-ssl2]: https://drive.google.com/file/d/1bZ_mxNYUOe7y3QG2KZ0u9d8aH-tlwDx8/view?usp=sharing
 [jchoo-ssl3]: https://drive.google.com/file/d/1IGQPThjCNSNdMdCsqz4O7KeXrPAO8qtE/view?usp=sharing
