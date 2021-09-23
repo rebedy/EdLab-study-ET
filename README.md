@@ -1,14 +1,18 @@
 ## EdLab.   Efficient Transformer Study (2021)
 
 #### Mem.: Dayoung Lee, Kyung-hoon Hur, JongHak Moon, Seungwoo Ryu, Minjae Lee, Eunbyeol Cho, and Sumin Jo
-#### Time: Friday 16:00 - 17:30
+#### Time: Monday 14:00 - 16:00
 
-|       Date     | Topic | Published | Affiliation || Note-by | Treasury |
-|:--------------:|:--------------------------------:|:---------------:|:-----------:|:-:|:----------:|:--------:|
-| 10th Sep, 2021 | [Setting up an agenda and goal][repo_0] | 2022KAIST |  EdLab || dylee |[week0][etstudy_0]|
-| 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part1][paperlink_1] | 2020ICML |  EPFL || khhur |[week1][etstudy_1]|
-| 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | 2020ICML |  EPFL || dylee |[week2][etstudy_2]|
 
+|       Date     | Topic | Published | Affiliation || Note-by | Treasury | Ref. Vault |
+|:--------------:|:--------------------------------:|:---------------:|:-----------:|:-:|:----------:|:--------:|:--------:|
+| 10th Sep, 2021 | [Setting up an agenda and goal][repo_0] | 2022KAIST |  EdLab || dylee |[week0][etnote_0]|
+| 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part1][paperlink_1] | 2020ICML|EPFL || khhur |[week1][etnote_1]|[ref.1][etref_1]|
+| 24th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | 2020ICML|EPFL || dylee |[week2][etstudy_1]||
+|  1st Oct, 2021 | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2] | 2020ICML |  EPFL || dylee |[week3][etnote_2]||
+
+
+------------------------------------------------------------
 
 <!-- & Main Repository -->
 [repo_0]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week0
@@ -16,15 +20,25 @@
 
 <!-- & Materials -->
 [paperlink_1]: https://arxiv.org/pdf/2006.16236.pdf
+[paperlink_2]: https://arxiv.org/pdf/2001.04451.pdf
 
 
 <!-- & # Weekly Note -->
-[etstudy_0]: https://www.notion.so/dyanlee/Transformer-based-Seq2Seq-and-Sparsity-Linearity-4d4cb052ef1244bc9bdd228846b8fa8e 
-[etstudy_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
-[etstudy_2]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
+[etnote_0]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week0
+[etnote_1]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week1
+[etnote_2]: 
+
+<!-- & # Reference Vault -->
+[etref_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
 
 
-<!-- & # Markdown References -->
+
+
+
+
+
+
+<!-- & # References -->
 [jchoo-ssl1]: https://drive.google.com/file/d/1JndOzkhxtOXwp_4sBtcc1WCpTh1Y1ygb/view?usp=sharing
 [jchoo-ssl2]: https://drive.google.com/file/d/1bZ_mxNYUOe7y3QG2KZ0u9d8aH-tlwDx8/view?usp=sharing
 [jchoo-ssl3]: https://drive.google.com/file/d/1IGQPThjCNSNdMdCsqz4O7KeXrPAO8qtE/view?usp=sharing
