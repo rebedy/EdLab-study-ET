@@ -4,12 +4,12 @@
 #### Time: Monday 14:00 - 16:00
 
 
-|       Date     | Topic | Published | Affiliation || Note-by | Treasury | Ref. Vault |
-|:--------------:|:--------------------------------:|:---------------:|:-----------:|:-:|:----------:|:--------:|:--------:|
-| 10th Sep, 2021 | [Setting up an agenda and goal][repo_0] | 2021KAIST |  EdLab || dylee |[week0][etnote_0]|
-| 17th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part1][paperlink_1] | 2020ICML|EPFL || - |[week1][etnote_1]|[ref.1][etref_1]|
-| 24th Sep, 2021 | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | 2020ICML|EPFL || dylee |[week2][etstudy_1]||
-|  1st Oct, 2021 | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2] | 2020ICLR | Google Research || khhur |[week3][etnote_2]||
+|    Date  | Topic | Published | Affiliation || Note-by | Treasury | Ref. Vault |
+|:--------:|:--------------------------------:|:---------------:|:-----------:|:-:|:----------:|:--------:|:--------:|
+| 10th Sep | [Setting up an agenda and goal][repo_0] | 2021KAIST |  EdLab || dylee |[week0][etnote_0]|
+| 17th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part1][paperlink_1] | 2020ICML|EPFL || - |[week1][etnote_1]|[ref.1][etref_1]|
+| 24th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | 2020ICML|EPFL || dylee |[week2][etstudy_1]||
+|  1st Oct | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2] | 2020ICLR | Google Research || khhur |[week3][etnote_2]||
 
 
 ------------------------------------------------------------
