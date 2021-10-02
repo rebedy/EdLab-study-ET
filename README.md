@@ -1,42 +1,34 @@
-## EdLab.   Efficient Transformers Study (2021)
+# <img src="./Treasury/week0/EdLab_logo_1_byDyan.png" width="70" height="70"> EdLab.   Efficient Transformers Study (2021)
 
 #### Members: Dayoung Lee, Kyung-hoon Hur, JongHak Moon, Seungwoo Ryu, Minjae Lee, Eunbyeol Cho, and Sumin Jo
+
 #### Time: Friday 16:00 - 17:30
 
-
-|    Date  | Topic | Published | Affiliation || Note-by | Treasury | Ref. Vault |
-|:--------:|:--------------------------------:|:---------------:|:-----------:|:-:|:----------:|:--------:|:--------:|
-| 10th Sep | [Setting up an agenda and goal][repo_0] | 2021KAIST |  EdLab || dylee |[week0][etnote_0]|
-| 17th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part1][paperlink_1] | 2020ICML|EPFL || - |[week1][etnote_1]|[ref.1][etref_1]|
-| 24th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | 2020ICML|EPFL || dylee |[week2][etnote_1]||
-|  1st Oct | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2] | 2020ICLR | Google Research || khhur |[week3][etnote_2]||
+|   Date   |                                               Topic                                                | Published |   Affiliation   |       | Note-by |     Treasury      |    Ref. Vault    |
+| :------: | :------------------------------------------------------------------------------------------------: | :-------: | :-------------: | :---: | :-----: | :---------------: | :--------------: |
+| 10th Sep |                              [Setting up an agenda and goal][repo_0]                               | 2021KAIST |      EdLab      |       |  dylee  | [week0][etnote_0] |
+| 17th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part1][paperlink_1] | 2020ICML  |      EPFL       |       |    -    | [week1][etnote_2] | [ref.1][etref_1] |
+| 24th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | 2020ICML  |      EPFL       |       |  dylee  | [week2][etnote_2] |                  |
+| 1st Oct  |                         [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                         | 2020ICLR  | Google Research |       |  khhur  | [week3][etnote_3] |                  |
+| 8st Oct  |                         [[CodeReview] REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                         | 2020ICLR  | Google Research |       |  dylee  | [week4][etnote_4] |                  |
 
 
 ------------------------------------------------------------
-
 <!-- & Main Repository -->
 [repo_0]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week0
-
 
 <!-- & Materials -->
 [paperlink_1]: https://arxiv.org/pdf/2006.16236.pdf
 [paperlink_2]: https://arxiv.org/pdf/2001.04451.pdf
 
-
 <!-- & # Weekly Note -->
-[etnote_0]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week0
-[etnote_1]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week1
-[etnote_2]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week3
+[etnote_0]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week0/week0_ETstudy.pdf
+[etnote_2]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week1-2/week2_20210924_dyanlee_Linear_Transformer.pdf
+[etnote_3]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week3-4/week3_20211001_kyunghoon_Reformer.pdf
+[etnote_3]: https://github.com/rebedy/EdLab-study-ET/tree/main/Treasury/week3-4/
 
 <!-- & # Reference Vault -->
 [etref_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
-
-
-
-
-
-
-
 
 <!-- & # References -->
 [jchoo-ssl1]: https://drive.google.com/file/d/1JndOzkhxtOXwp_4sBtcc1WCpTh1Y1ygb/view?usp=sharing
