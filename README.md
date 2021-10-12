@@ -12,8 +12,8 @@
 | 17th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part1][paperlink_1] | ICML 2020 |      EPFL       |      |    -    | [week1][etnote_2] | [ref.1][etref_1] |
 | 24th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention, part2][paperlink_1] | ICML 2020 |      EPFL       |      |  dylee  | [week2][etnote_2] |                  |
 | 1st Oct  |                         [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                         | ICLR 2020 | Google Research |      |  khhur  | [week3][etnote_3] |                  |
-| 8st Oct  |                         [[CodeReview] REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]            | ICLR 2020 | Google Research |      |  dylee  | [week4][etnote_4] |                  |
-| 15st Oct |                         [RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]                        | ICLR 2021 |      Google     |      |  dylee  | [week5][etnote_5] |                  |
+| 8th Oct  |                         [[CodeReview] REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]            | ICLR 2020 | Google Research |      |  dylee  | [week4][etnote_4] |                  |
+| 15th Oct |                         [RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]                        | ICLR 2021 |      Google     |      |  dylee  | [week5][etnote_5] |                  |
 
 ------------------------------------------------------------
 <!-- & Main Repository -->
