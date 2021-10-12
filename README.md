@@ -1,4 +1,4 @@
-# <img src="./Treasury/week1/EdLab_logo_1_byDyan.png" width="77" height="77"> EdLab.   Efficient Transformers Study (2021)
+# <img src="./treasury/week1/EdLab_logo_1_byDyan.png" width="77" height="77"> EdLab.   Efficient Transformers Study (2021)
 
 #### Members: Dayoung Lee, Kyung-hoon Hur, JongHak Moon, Seungwoo Ryu, Minjae Lee, Eunbyeol Cho, and Sumin Jo
 
