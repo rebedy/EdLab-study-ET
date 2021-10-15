@@ -13,6 +13,7 @@
 | 1st Oct  | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                                          | ICLR 2020 | Google Research |      |  khhur  | [week3][etnote_3] |                  |
 | 8th Oct  | [[CodeReview] REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                             | ICLR 2020 | Google Research |      |  dylee  | [week4][etnote_4] |                  |
 | 15th Oct | [RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]                                         | ICLR 2021 | Google          |      |  dylee  | [week5][etnote_5] |                  |
+| 29th Oct | [[CodeReview] RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]                            | ICLR 2021 | Google          |      |  dylee  | [week6][etnote_6] |                  |
 
 <!-- & Materials -->
 [paperlink_1]: https://arxiv.org/pdf/2006.16236.pdf
@@ -24,7 +25,8 @@
 [etnote_2]: treasury/week2/week2_20210924_dyanlee_Linear_Transformer.pdf
 [etnote_3]: treasury/week3-4/week3_20211001_kyunghoon_Reformer.pdf
 [etnote_4]: treasury/week3-4/week4_20211008_dylee_Reformer_code.pdf
-[etnote_5]: treasury/week5/
+[etnote_5]: treasury/week5-6/week5_20211015_dylee_RETHINKING_ATTENTION_WITH_PERFORMERS.pdf
+[etnote_6]: treasury/week5-6/
 
 <!-- & # Reference Vault -->
 [etref_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
