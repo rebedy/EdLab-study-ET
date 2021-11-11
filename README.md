@@ -6,19 +6,22 @@
 
 ---
 
-|   Date   |                                               Topic                                         | Published |   Affiliation   |      |   By.   |        Note       |     Reference    |
-| :------: | :-----------------------------------------------------------------------------------------: | :-------: | :-------------: | :--: | :-----: | :---------------: | :--------------: |
-| 10th Sep | [Setting up an agenda and goal][repo_1]                                                     |           | EdLab           |      |    -    | [week1][etnote_1] |                  |
+|   Date   |                                    Topic                                    | Published |      |   By.   |        Note       |     Reference    |
+| :------: | :-------------------------------------------------------------------------: | :-------: | :-------------: | :--: | :-----: | :---------------: | :--------------: |
+| 10th Sep | [Setting up an agenda and goal][repo_1]                                     |           |      |    -    | [week1][etnote_1] |                  |
 | 24th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention][paperlink_1] | ICML 2020 | EPFL            |      |  dylee  | [week2][etnote_2] | [ref.1][etref_1] |
-| 1st Oct  | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                                          | ICLR 2020 | Google Research |      |  khhur  | [week3][etnote_3] |                  |
-| 8th Oct  | [[CodeReview] REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                             | ICLR 2020 | Google Research |      |  dylee  | [week4][etnote_4] |                  |
-| 15th Oct | [RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]                                         | ICLR 2021 | Google          |      |  dylee  | [week5][etnote_5] |                  |
-| 29th Oct | [[CodeReview] RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]                            | ICLR 2021 | Google          |      |  dylee  | [week6][etnote_6] |                  |
+| 1st Oct  | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                          | ICLR 2020 |      |  khhur  | [week3][etnote_3] |                  |
+| 8th Oct  | [[CodeReview] REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]             | ICLR 2020 |      |  dylee  | [week4][etnote_4] |                  |
+| 15th Oct | [RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]                         | ICLR 2021 |      |  dylee  | [week5][etnote_5] |                  |
+| 29th Oct | [[CodeReview] RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]            | ICLR 2021 |      |  dylee  | [week6][etnote_6] |                  |
+| 11th Oct | [Linformer: Self-Attention with Linear Complexity][paperlink_4]             | ArXiv 2020|      |  dylee  | [week7][etnote_7] |                  |
+
 
 <!-- & Materials -->
 [paperlink_1]: https://arxiv.org/pdf/2006.16236.pdf
 [paperlink_2]: https://arxiv.org/pdf/2001.04451.pdf
 [paperlink_3]: https://arxiv.org/pdf/2009.14794.pdf
+[paperlink_4]: https://arxiv.org/pdf/2006.04768.pdf
 
 <!-- & # Weekly Note -->
 [etnote_1]: treasury/week1/week1_ETstudy.pdf
@@ -27,6 +30,8 @@
 [etnote_4]: treasury/week3-4/week4_20211008_dylee_Reformer_code.pdf
 [etnote_5]: treasury/week5-6/week5_20211015_dylee_RETHINKING_ATTENTION_WITH_PERFORMERS.pdf
 [etnote_6]: treasury/week5-6/
+[etnote_7]: treasury/week7/
+
 
 <!-- & # Reference Vault -->
 [etref_1]: https://drive.google.com/drive/folders/1IwHIRzNApaHVQ5ZpofSZRFixqf_6szg-?usp=sharing
