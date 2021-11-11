@@ -7,7 +7,7 @@
 ---
 
 |   Date   |                                    Topic                                    | Published |      |   By.   |        Note       |     Reference    |
-| :------: | :-------------------------------------------------------------------------: | :-------: | :-------------: | :--: | :-----: | :---------------: | :--------------: |
+| :------: | :-------------------------------------------------------------------------: | :-------: | :--: | :-----: | :---------------: | :--------------: |
 | 10th Sep | [Setting up an agenda and goal][repo_1]                                     |           |      |    -    | [week1][etnote_1] |                  |
 | 24th Sep | [Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention][paperlink_1] | ICML 2020 | EPFL            |      |  dylee  | [week2][etnote_2] | [ref.1][etref_1] |
 | 1st Oct  | [REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]                          | ICLR 2020 |      |  khhur  | [week3][etnote_3] |                  |
