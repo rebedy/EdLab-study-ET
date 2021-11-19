@@ -14,7 +14,7 @@
 | 8th Oct  | [[CodeReview] REFORMER: THE EFFICIENT TRANSFORMER][paperlink_2]             | ICLR 2020 |      |  dylee  | [week4][etnote_4] |                  |
 | 15th Oct | [RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]                         | ICLR 2021 |      |  dylee  | [week5][etnote_5] |                  |
 | 29th Oct | [[CodeReview] RETHINKING ATTENTION WITH PERFORMERS][paperlink_3]            | ICLR 2021 |      |  dylee  | [week6][etnote_6] |                  |
-| 11th Oct | [Linformer: Self-Attention with Linear Complexity][paperlink_4]             | ArXiv 2020|      |  dylee  | [week7][etnote_7] |                  |
+| 11th Oct | [Linformer: Self-Attention with Linear Complexity][paperlink_4]             | ArXiv 2020|      |  ebcho  | [week7][etnote_7] |                  |
 
 
 <!-- & Materials -->
